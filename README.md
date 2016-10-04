@@ -1,5 +1,5 @@
-#    PASOS seguidos hasta ahora 
-Abrir un repositorio en github
+# PASOS seguidos hasta ahora 
+Abrir un repositorio en github <br>
 Clonarlo en el equipo
 Entrar en la carpeta principal
 Generar la estructura con YeoPress de Yeoman
