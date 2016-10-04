@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "plural": "blogdb",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "paginas": {
+      "type": [
+        "string"
+      ],
+      "required": true,
+      "default": [
+        "inicio"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
